@@ -1,0 +1,23 @@
+WIKIPEDIA BIOGRAPHICAL NOTABILITY GUIDELINE (WP:BIO / WP:PEOPLE)
+
+A person is presumed to be notable if they have received significant coverage in multiple reliable secondary sources that are entirely independent of the subject. 
+
+To meet the standard, a person must have:
+1. Significant, detailed non-routine coverage centered primarily on the individual's life, works, impact, or historical significance.
+2. At least one full-length feature article, unauthorized biographical book, or dedicated documentary profiling them completely.
+
+EXCLUSIONS (DO NOT CONFUSE THIS WITH NOTABILITY):
+A person is NOT notable simply because they are "important", "successful", or "rich" in their respective field.
+- Holding an important office or title (e.g., CEO of a major corporation, Vice President of a hedge fund) does not inherently make an individual notable. The coverage of their life must extend beyond their basic job description.
+- Having a very impressive resume, high net-worth, or speaking at industry conferences/panels.
+- Just because a company is highly notable on Wikipedia does not mean its CEO or founder automatically gets a Wikipedia biography. The founder's personal notability must be proven separately.
+- Social media metrics: A million followers on Instagram, TikTok, or YouTube guarantees absolutely nothing regarding Wikipedia notability. It does not matter how famous they are online if there are no independent journalistic pieces about them.
+
+ROUTINE COVERAGE THAT FAILS THE BIOGRAPHICAL GUIDELINE:
+- An interview where the person talks about themselves or their company. By definition, a subject answering questions is controlling the narrative; thus, it is not "independent." Interviews are completely excluded from establishing notability.
+- News articles announcing a person's promotion, hiring, or resignation.
+- Passing mentions in an article about their company. For example, if an article is about Tesla's latest quarterly financials, and mentions "Elon Musk said earnings were up 10%", this is trivial mention of the person and does not count toward biological notability.
+- Self-published autobiographies, personal websites, blog posts, LinkedIn articles, or paid promotional Forbes "Councils" articles.
+
+WHAT CONSTITUTES BIOGRAPHICAL NOTABILITY?
+The subject must have been investigated, profiled, or historically documented by multiple journalists or academics who initiated coverage on the person because their individual influence or unique achievements demanded public attention and historical record outside of corporate promotion.
