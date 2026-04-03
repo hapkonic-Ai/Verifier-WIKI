@@ -1,0 +1,19 @@
+WIKIPEDIA GENERAL NOTABILITY GUIDELINE (WP:GNG)
+
+If a topic has received significant coverage in reliable sources that are independent of the subject, it is presumed to be suitable for a stand-alone article or list.
+
+1. "Significant coverage" addresses the topic directly and in detail, so that no original research is needed to extract the content. Significant coverage is more than a trivial mention, but it does not need to be the main topic of the source material.
+- Example of non-significant: A 300-page book on Apple Inc. mentions "John Doe was a manager there" in one sentence. This is trivial.
+- Example of significant: A full 3-paragraph section analyzing the person or company's impact.
+
+2. "Reliable" means sources need editorial integrity to allow verifiable evaluation of notability. 
+- Accepted: Major national newspapers (New York Times, The Guardian), established industry magazines (Forbes, Wired), academic journals, published books by reputable publishers.
+- Rejected: Personal blogs, Reddit, Twitter/X, Medium articles, user-generated Wiki sites, random forums.
+
+3. "Sources" should be secondary sources, as those provide the most objective evidence of notability. 
+- Primary sources (like a company's own website, their own SEC filings, or their own press releases) do NOT contribute to establishing notability.
+
+4. "Independent of the subject" excludes works produced by the article's subject or someone affiliated with it. 
+- EXPLICITLY REJECTED: Press releases, autobiographies, promotional marketing material, sponsored content (advertorials), interviews where the subject is simply answering questions (as they control the narrative), and articles written by the company's PR team that are "syndicated" to news outlets (e.g., PRNewswire, BusinessWire, ANI syndicated feeds).
+
+If the provided sources are mostly interviews or re-hashed press releases reporting on a new funding round, product launch, or executive hire, the subject completely FAILS the General Notability Guideline. The coverage must be born from independent journalistic initiative.
