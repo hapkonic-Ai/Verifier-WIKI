@@ -1,0 +1,26 @@
+WIKIPEDIA NOTABILITY FOR ORGANIZATIONS AND COMPANIES (WP:CORP / WP:NCORP)
+
+Organizations and companies are evaluated under the General Notability Guideline (WP:GNG), but there is a significantly higher burden of proof to prevent Wikipedia from being used as a corporate directory or for free advertising.
+
+To demonstrate notability for a company or organization, the sources MUST:
+1. Provide significant coverage specifically investigating, analyzing, or evaluating the company or its operations beyond basic factual reporting.
+2. The coverage must be entirely independent of the company and not originate from their PR engine.
+
+EXPLICIT EXCLUSIONS THAT DO NOT CONSTITUTE NOTABILITY:
+A major failure often occurs when people submit 'Routine Business News' as evidence of notability. 
+
+The following types of coverage are classified as "Routine" and MUST BE REJECTED entirely when evaluating notability:
+- Announcements of new product launches, app updates, or service rollouts.
+- Reports detailing funding rounds, capital raises, VC investments, IPOs, or "closing a $X million seed round." 
+- Reports of corporate mergers and acquisitions (unless the M&A fundamentally reshaped the national economy or industry).
+- Announcements of new office openings, factory expansions, or hiring executives/board members.
+- Financial reports, quarterly earnings announcements, or changes in stock prices.
+- Press releases verbatim, "churnalism," or syndicated content originating from public PR wires (e.g., PRNewswire, Business Wire, ANI, IANS, Reuters wire feeds that simply reprint unedited company statements). 
+- Interviews with the CEO, founders, or executives where they discuss the company's vision or performance. (Because the company controls the narrative).
+- Industry awards, "Top 100 Companies" listicles, or basic profile directory listings (e.g., Crunchbase, Pitchbook).
+
+WHAT DOES CONSTITUTE NOTABILITY:
+- An independent journalistic investigation into the company's business practices or history by a major news organization (e.g., a massive deep-dive feature in The Wall Street Journal or Bloomberg Businessweek).
+- Exhaustive books published by independent authors focusing heavily on the organization's rise or cultural impact.
+- Case studies from credible academic institutions analyzing the unique market strategy of the organization.
+- Meaningful external commentary: The company must be shown to have produced a widely notable cultural, economic, or historical impact verified by independent third-party analysts, rather than just surviving or growing financially.
