@@ -1,0 +1,26 @@
+WIKIPEDIA NOTABILITY FOR MUSICIANS AND ENSEMBLES (WP:NMUSIC)
+
+A musician or ensemble (this includes a band, singing group, musical theatre company, orchestra, choir, and DJ) is presumed to be notable if they meet the General Notability Guideline (WP:GNG) OR if they meet any one of the following specific criteria established for musical acts:
+
+1. They have been the subject of multiple, non-trivial, published works appearing in sources that are reliable, not self-published, and are independent of the musician.
+- This includes extensive magazine reviews, full independent biographies, and major media feature documentaries. 
+- This does NOT include local newspaper announcements of upcoming gigs, basic concert reviews that barely mention the band, school/university newspapers, or music blogs where bands submit their own music for review.
+
+2. Have had a single or album on any country's national music chart (e.g., Billboard Hot 100, UK Singles Chart).
+- Reaching a chart on Spotify, Apple Music, Soundcloud, or an obscure regional indie chart does NOT count. It must be an established, historic national chart.
+
+3. Have received a gold certification or higher for an album or single in at least one country by a recognized industry group (e.g., RIAA).
+
+4. Have won, or been nominated for, a major music award, such as a Grammy, Juno, Mercury Prize, Choice Music Prize, or a comparable prestigious industry or critical award.
+- Winning "Local Band of the Year," online fan polls, or minor regional awards does NOT qualify.
+
+5. Have gone on a recognized international concert tour, or a national concert tour in at least one sovereign country, reported by independent sources.
+- Playing multiple gigs in a local pub or a handful of venues across a state does not constitute a "national tour" worthy of Wikipedia. It must be a promoted, major tour backed by independent reporting.
+
+6. Have released two or more albums on a major record label or on one of the more important indie labels (i.e., an independent label with a history of more than a few years and a roster of performers, many of whom are notable).
+- Self-releasing music on Spotify, Distrokid, TuneCore, or a vanity label does NOT confer any notability whatsoever, no matter how many streams the music has.
+
+EXCLUSIONS (DO NOT CONFUSE THIS WITH NOTABILITY):
+- "We have 1 million monthly listeners on Spotify." Streams and online popularity do not equal Wikipedia notability without independent journalistic coverage.
+- "We submitted a press release for our album launch." Press releases are entirely ignored for notability evaluation.
+- "We were interviewed on a podcast." Podcasts that are not part of major media organizations are generally self-published and fail reliability standards. Furthermore, interviews inherently fail the "independence" criteria of WP:GNG because the band is answering the questions.
